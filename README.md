@@ -1,5 +1,7 @@
 # 🎬 Movie Dashboard
 
+https://tmdb-react-dashboard.vercel.app/
+
 > Projeto de estudo desenvolvido para praticar e demonstrar conhecimento em consumo de dados assíncronos, cache/revalidação e arquitetura front-end escalável em um cenário próximo do real.
 
 Dashboard de filmes com busca, filtros e paginação server-side, construído sobre a TMDB API. O foco não é o produto em si, mas evidenciar boas práticas de arquitetura, separação de responsabilidades e tratamento consistente de estados assíncronos (loading, erro, sucesso).
