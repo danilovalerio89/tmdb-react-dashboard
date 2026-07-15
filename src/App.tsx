@@ -1,7 +1,7 @@
-import { Button } from "@chakra-ui/react";
+import { DashboardPage } from "@/pages/DashboardPage";
 
 function App() {
-  return <Button>Start</Button>;
+  return <DashboardPage />;
 }
 
 export default App;
